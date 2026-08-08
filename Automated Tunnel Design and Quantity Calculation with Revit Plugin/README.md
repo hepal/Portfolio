@@ -10,12 +10,9 @@ Civil/infrastructure teams typically spend significant time manually modeling tu
 
 ## Preview
 
-<video src="./ojbtyylci39y4wkrh4rj.mp4" controls width="720">
-  Your browser does not support the video tag. You can download and view the demo video directly:
-  <a href="./ojbtyylci39y4wkrh4rj.mp4">ojbtyylci39y4wkrh4rj.mp4</a>
-</video>
+▶️ **[Watch the demo video](./ojbtyylci39y4wkrh4rj.mp4)** — entering tunnel parameters through the custom GUI and generating the resulting tunnel geometry and quantity table in Revit.
 
-*Demo: entering tunnel parameters through the custom GUI and generating the resulting tunnel geometry and quantity table in Revit.*
+*(GitHub can't preview video files inline in Markdown — click the link above, then "View raw" / download to play it.)*
 
 ## Key Features & Problem Solving
 
