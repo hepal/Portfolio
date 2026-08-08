@@ -1,0 +1,16 @@
+Project title *
+Concrete 3D Printing Optimization & Analysis Tool in Rhino
+12 characters left
+Your role (optional)
+Solo C# Plugin Developer / Computational Designer
+51 characters left
+Project description *
+Developed a custom Grasshopper plugin suite (10+ C# .NET modules) for Rhino 7 to analyze and optimize the 3D printability of irregular concrete masses. Commissioned for a university architectural research project, the tool automates complex internal infill geometries, including calculated area offsets and multi-core optimized (Parallel.For) zigzag routing. It generates 3D mesh ribbons representing print beads and features an advanced analyzer that visualizes overfill and underfill zones via color-coded maps, ensuring structural viability before physical printing.
+31 characters left
+Skills and deliverables *
+C#
+Remove C# Tag
+.NET Framework
+Remove .NET Framework Tag
+Rhinoceros 3D
+Remove Rhinoceros 3D Tag

@@ -1,0 +1,22 @@
+Project title *
+Web-Based 3D Data Center Infrastructure Management (DCIM) Digital Twin
+0 characters left
+Your role (optional)
+3D Web & Fronted Developer
+74 characters left
+Project description *
+I developed the core 3D visualization and frontend application for a web-based Data Center Infrastructure Management (DCIM) system. This platform acts as a digital twin, allowing users to intuitively monitor, manage, and track server racks and IT assets within a fully interactive 3D environment directly in their web browser.
+
+My primary focus was on the technical implementation of the 3D environment and the seamless synchronization between the 3D WebGL canvas and the 2D Web UI (Note: UI/UX design was provided separately).
+73 characters left
+Skills and deliverables *
+Three.js
+Remove Three.js Tag
+React
+Remove React Tag
+WebGL
+Remove WebGL Tag
+Front-End Development
+Remove Front-End Development Tag
+API Integration
+Remove API Integration Tag

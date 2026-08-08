@@ -1,0 +1,16 @@
+# Portfolio Overview
+
+A collection of custom software engineering projects spanning BIM/CAD automation (Revit, Rhino/Grasshopper, SketchUp), desktop CAD tooling, and web-based 3D digital twin visualization. Each project below links to a dedicated case study with visuals, key features, and technical details.
+
+| Project | Summary | Link |
+|---|---|---|
+| **Automated BIM Energy Performance & U-Value Calculator via Revit API** | A Revit add-in that automates extraction of BIM material data and generates energy performance certificates and U-value reports. | [View Project](./Automated%20BIM%20Energy%20Performance%20%26%20U-Value%20Calculator%20via%20Revit%20API/README.md) |
+| **Automated Tunnel Design and Quantity Calculation with Revit Plugin** | A Revit plugin that generates tunnel geometry and quantity take-off tables from parametric GUI inputs. | [View Project](./Automated%20Tunnel%20Design%20and%20Quantity%20Calculation%20with%20Revit%20Plugin/README.md) |
+| **Concrete 3D Printing Optimization & Analysis Tool in Rhino** | A Grasshopper plugin suite that generates and validates 3D-printable infill toolpaths for irregular concrete masses. | [View Project](./Concrete%203D%20Printing%20Optimization%20%26%20Analysis%20Tool%20in%20Rhino/README.md) |
+| **Development of a Spatial Authoring CAD Program** | A from-scratch desktop CAD tool that lets non-experts author 3D spatial data for control and monitoring systems. | [View Project](./Development%20of%20a%20spatial%20authoring%20CAD%20program/README.md) |
+| **SketchUp Spatial Data Pipeline & IndoorGML Modeler** | A SketchUp Ruby plugin converting CAD/CityGML data into validated, exportable IndoorGML for web spatial systems. | [View Project](./SketchUp%20Spatial%20Data%20Pipeline%20%26%20IndoorGML%20Modeler/README.md) |
+| **Web-Based 3D Data Center Infrastructure Management (DCIM) Digital Twin** | The 3D visualization frontend for a browser-based DCIM platform, syncing a WebGL digital twin with a live 2D UI. | [View Project](./Web-Based%203D%20Data%20Center%20Infrastructure%20Management%20(DCIM)%20Digital%20Twin/README.md) |
+
+## Core Skills Across Portfolio
+
+`C#` · `.NET Framework` · `Ruby` · `Three.js` · `React` · `WebGL` · `Unity` · `Autodesk Revit API` · `Rhinoceros 3D / Grasshopper` · `SketchUp` · `Plugin Development` · `API Integration` · `CAD Software`

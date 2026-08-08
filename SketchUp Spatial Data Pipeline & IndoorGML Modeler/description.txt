@@ -1,0 +1,18 @@
+Project title *
+SketchUp Spatial Data Pipeline & IndoorGML Modeler
+20 characters left
+Your role (optional)
+Lead Developer (Handled entire technical architecture and software development
+22 characters left
+Project description *
+Developed a SketchUp Ruby plugin for an IndoorGML data pipeline. It converts CAD/CityGML data into IndoorGML for SketchUp import. The tool provides a custom GUI to edit spatial elements including Cell Spaces, Topology, POIs, Properties, Coordinate Systems, and Anchor Nodes. It features a built-in Validator with error-handling GUIs to ensure data integrity. Finally, it exports the verified data back into *.IndoorGML and InViewer formats, seamlessly bridging desktop CAD with web-based spatial systems.
+96 characters left
+Skills and deliverables *
+SketchUp
+Remove SketchUp Tag
+Ruby
+Remove Ruby Tag
+Plugin Development
+Remove Plugin Development Tag
+.NET Framework
+Remove .NET Framework Tag

@@ -1,0 +1,16 @@
+Project title *
+Automated BIM Energy Performance & U-Value Calculator via Revit API
+3 characters left
+Your role (optional)
+Lead Developer (Responsible for full software architecture, development, and implementation)
+8 characters left
+Project description *
+This project is a custom Revit add-in designed to automate the extraction and analysis of building energy performance data. Leveraging the Revit API, the tool extracts real-time BIM data to identify and analyze the materials of exterior walls, openings, and floors. It systematically calculates the thermal conductivity of composite materials and automatically generates comprehensive energy performance certificates and thermal transmittance (U-value) reports. This automation significantly reduces manual data entry and ensures highly accurate environmental data analysis for building projects.
+4 characters left
+Skills and deliverables *
+C#
+Remove C# Tag
+.NET Framework
+Remove .NET Framework Tag
+Autodesk Revit
+Remove Autodesk Revit Tag

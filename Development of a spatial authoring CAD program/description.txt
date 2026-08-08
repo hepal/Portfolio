@@ -1,0 +1,12 @@
+My role. Solo Full-Stack CAD Developer ( Engine/UI)
+
+Project description.
+
+Developed a specialized spatial data authoring tool from scratch, designed to create and manage 3D spatial environments for 3D control and monitoring systems. The goal of this project was to bridge the gap between complex CAD environments and end-users, enabling them to generate production-ready spatial data without requiring professional 3D modeling skills.
+Skills and deliverables
+
+C#
+.NET Framework
+Unity
+CAD Software
+Desktop Application

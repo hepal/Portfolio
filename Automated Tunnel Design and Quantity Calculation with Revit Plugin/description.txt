@@ -1,0 +1,10 @@
+My role. Main programmer
+
+Project description.
+
+This program utilizes an Autodesk Revit plugin to estimate quantities for tunnels. By entering numerical values and attributes through a GUI, the program automatically generates the tunnel geometry and a quantity table.
+Skills and deliverables
+
+.NET Framework
+C#
+Autodesk Revit
